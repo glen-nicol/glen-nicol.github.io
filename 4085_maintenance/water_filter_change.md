@@ -1,14 +1,9 @@
-<style>
-img
-{
-    display:block; /*show on their own line */
-    width:600px;
-}
-</style>
-
 # Well water filter change
 
+
 ## Change History
+
+Bop said he does the filter every 1 - 2 years.
 
 |Date|Notes|
 |----|-----|
