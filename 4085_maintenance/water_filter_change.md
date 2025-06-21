@@ -6,9 +6,9 @@ title: Well water filter change
 
 Bop said he does the filter every 1 - 2 years.
 
-|Date|Notes|
-|----|-----|
-|6/14/25| None|
+|Filter Change Date|Notes                                              |
+|------------------|---------------------------------------------------|
+|6/14/25           | Saw two spiders and Bop still fits down there. 😜 |
 
 
 ## Prodedure

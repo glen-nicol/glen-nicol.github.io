@@ -1,4 +1,4 @@
 # 4085 Maintenance
 
-## Proceedures
+## Procedures
 * [Water Filter Change](./water_filter_change.md)
